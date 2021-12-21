@@ -1,0 +1,188 @@
+@import "variables";
+
+
+@media (max-width: $ultraBook) {
+  .container {
+    width: 992px;
+  }
+  #hero {
+    .hero {
+      &__video {
+        width: 992px;
+      }
+    }
+  }
+}
+
+@media (max-width: $Ipad) {
+  .container {
+    width: 900px;
+  }
+  #hero {
+    .hero {
+      &__title {
+        font-size: 50px;
+        line-height: 138%;
+      }
+
+      &__video {
+        width: 900px;
+        height: 400px;
+      }
+    }
+  }
+}
+
+@media (max-width: $IpadMini) {
+  .container {
+    width: 800px;
+  }
+  #hero {
+    .hero {
+      &__title {
+        font-size: 50px;
+        line-height: 138%;
+      }
+
+      &__video {
+        width: 900px;
+        height: 400px;
+      }
+    }
+  }
+}
+
+@media (max-width: $Tablet) {
+  .container {
+    width: 720px;
+  }
+  #header {
+    .header {
+      &__menu, &__btn {
+        display: none;
+
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &__title {
+        font-size: 50px;
+        line-height: 138%;
+      }
+
+      &__video {
+        width: 720px;
+        height: 400px;
+      }
+    }
+  }
+}
+
+@media (max-width: $BigPhone) {
+  .container {
+    width: 500px;
+  }
+  #hero {
+    .hero {
+      &__title {
+        font-size: 36px;
+        line-height: 127%;
+      }
+
+      &__video {
+        width: 50px;
+        height: 300px;
+
+        &--btn {
+          width: 65px;
+          height: 65px;
+
+          &__play {
+            margin: 16px auto;
+            width: 25px;
+            height: 25px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: $Iphone7) {
+  .container {
+    width: 380px;
+  }
+  #hero {
+    .hero {
+      &__video {
+        width: 385px;
+        height: 250px;
+      }
+    }
+  }
+}
+
+@media (max-width: $Iphone11) {
+  .container {
+    width: 350px;
+  }
+  #hero {
+    min-height: 80vh;
+
+    .hero {
+      &__title {
+        font-size: 27px;
+      }
+
+      &__video {
+        width: 340px;
+        height: 250px;
+      }
+    }
+  }
+}
+
+@media (max-width: $Iphone5) {
+  .container {
+    width: 350px;
+  }
+  #hero {
+    min-height: 80vh;
+
+    .hero {
+      &__title {
+        font-size: 27px;
+      }
+
+      &__video {
+        width: 290px;
+        height: 200px;
+      }
+
+      &__buttons {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      &__buttons, button {
+        margin: 10px 0;
+
+      }
+    }
+
+    #program {
+      .slider {
+        .slick-track {
+          .slick-slide {
+            img {
+              width: 290px;
+              height: 240px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
