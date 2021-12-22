@@ -1,7 +1,7 @@
-@import "variables";
+@import "variables.scss";
 
 
-@media (max-width: $ultraBook) {
+@media (max-width: $UltraBook) {
   .container {
     width: 992px;
   }

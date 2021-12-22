@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f6df0ad-582c-47c3-ac76-ac647532bcb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sass-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css/media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css/media.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slick.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/variables.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22MfShuWKNZ4MIf2k0pjPS30lCd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Project\sass-project\js" />
+      <recent name="C:\Users\User\Desktop\Project\sass-project\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Project\sass-project\css" />
+      <recent name="C:\Users\User\Desktop\Project\sass-project" />
+      <recent name="C:\Users\User\Desktop\Project\sass-project\css\css" />
+      <recent name="C:\Users\User\Desktop\Project\sass-project\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f6df0ad-582c-47c3-ac76-ac647532bcb6" name="Changes" comment="" />
+      <created>1639652380908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639652380908</updated>
+      <workItem from="1639652383129" duration="15344000" />
+      <workItem from="1639669612464" duration="4820000" />
+      <workItem from="1639738105139" duration="239000" />
+      <workItem from="1639754420065" duration="488000" />
+      <workItem from="1639755591461" duration="13000" />
+      <workItem from="1639757403694" duration="18000" />
+      <workItem from="1639816185188" duration="31000" />
+      <workItem from="1639816396076" duration="163000" />
+      <workItem from="1640102000266" duration="5667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

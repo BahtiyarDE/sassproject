@@ -1,3 +1,134 @@
+@media (max-width: 1024px) {
+  .container {
+    width: 992px;
+  }
 
+  #hero .hero__video {
+    width: 992px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    width: 900px;
+  }
+
+  #hero .hero__title {
+    font-size: 50px;
+    line-height: 138%;
+  }
+  #hero .hero__video {
+    width: 900px;
+    height: 400px;
+  }
+}
+@media (max-width: 840px) {
+  .container {
+    width: 800px;
+  }
+
+  #hero .hero__title {
+    font-size: 50px;
+    line-height: 138%;
+  }
+  #hero .hero__video {
+    width: 900px;
+    height: 400px;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    width: 720px;
+  }
+
+  #header .header__menu, #header .header__btn {
+    display: none;
+  }
+
+  #hero .hero__title {
+    font-size: 50px;
+    line-height: 138%;
+  }
+  #hero .hero__video {
+    width: 720px;
+    height: 400px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 500px;
+  }
+
+  #hero .hero__title {
+    font-size: 36px;
+    line-height: 127%;
+  }
+  #hero .hero__video {
+    width: 50px;
+    height: 300px;
+  }
+  #hero .hero__video--btn {
+    width: 65px;
+    height: 65px;
+  }
+  #hero .hero__video--btn__play {
+    margin: 16px auto;
+    width: 25px;
+    height: 25px;
+  }
+}
+@media (max-width: 415px) {
+  .container {
+    width: 380px;
+  }
+
+  #hero .hero__video {
+    width: 385px;
+    height: 250px;
+  }
+}
+@media (max-width: 376px) {
+  .container {
+    width: 350px;
+  }
+
+  #hero {
+    min-height: 80vh;
+  }
+  #hero .hero__title {
+    font-size: 27px;
+  }
+  #hero .hero__video {
+    width: 340px;
+    height: 250px;
+  }
+}
+@media (max-width: 320px) {
+  .container {
+    width: 350px;
+  }
+
+  #hero {
+    min-height: 80vh;
+  }
+  #hero .hero__title {
+    font-size: 27px;
+  }
+  #hero .hero__video {
+    width: 290px;
+    height: 200px;
+  }
+  #hero .hero__buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #hero .hero__buttons, #hero .hero button {
+    margin: 10px 0;
+  }
+  #hero #program .slider .slick-track .slick-slide img {
+    width: 290px;
+    height: 240px;
+  }
+}
 
 /*# sourceMappingURL=media.css.map */
