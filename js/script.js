@@ -16,6 +16,13 @@ $(".slider").slick({
                 arrows: false,
                 autoplay: true
             }
+        {
+            breakpoints: 376,
+            settings: {
+                slidesToShow: 1,
+                arrows: false,
+                autoplay: true
+            }
         },
     ]
 })
